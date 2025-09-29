@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# FAISS index files
+saved_faiss/*.faiss
+saved_faiss/*.pkl
+
+# Personal files
+*.pdf
